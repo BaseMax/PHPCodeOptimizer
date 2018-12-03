@@ -6,6 +6,10 @@ import (
 	"os"
 )
 
+func usage() {
+	
+}
+
 func main() {
   
 }
