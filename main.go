@@ -7,6 +7,8 @@ import (
 )
 
 func usage() {
+	fmt.Fprintf(os.Stderr," PHP Code Optimize\n\n")
+	flag.PrintDefaults()
 	os.Exit(2)
 }
 
