@@ -7,7 +7,7 @@ import (
 )
 
 func usage() {
-	
+	os.Exit(2)
 }
 
 func main() {
