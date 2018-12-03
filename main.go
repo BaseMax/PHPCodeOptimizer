@@ -16,5 +16,5 @@ func main() {
 	/*
 	arguments := flag.Args()
 	fmt.Println(arguments)
-	*/  
+	*/
 }
