@@ -11,8 +11,6 @@ PHP Code Optimize
     	path of a file as input
   -minify
     	 (default true)
-  -optimize
-    	 (default true)
   -output string
     	path of a file as output
 ```
