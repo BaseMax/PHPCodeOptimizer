@@ -13,5 +13,8 @@ func usage() {
 }
 
 func main() {
-  
+	/*
+	arguments := flag.Args()
+	fmt.Println(arguments)
+	*/  
 }
