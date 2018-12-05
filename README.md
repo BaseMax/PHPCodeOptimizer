@@ -3,7 +3,6 @@ Optimize And Minify PHP Code.
 
 
 ## Cli Help
-
 ```
 PHP Code Optimize
 
@@ -14,4 +13,3 @@ PHP Code Optimize
   -output string
     	path of a file as output
 ```
-
