@@ -28,7 +28,7 @@ func main() {
 		os.Exit(1);
 	}
 	/////////////////////////////////////////////////////////////////
-	fmt.Println(*InputFile)
+	//fmt.Println(*InputFile)
 	//fmt.Println(*OutputFile)
 	//fmt.Println(*MinifyFile)
 	//fmt.Println(*OptimizeFile)
