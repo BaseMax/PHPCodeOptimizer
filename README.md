@@ -1,5 +1,5 @@
 # PHP Code Optimizer
-Optimize And Minify PHP Code.
+Minify And Optimize PHP Code.
 
 
 ## Cli Help
